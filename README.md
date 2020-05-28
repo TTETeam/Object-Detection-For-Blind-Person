@@ -5,6 +5,6 @@
 Detect objects in an image using YOLOV3 after that get the list of objects it detect and convert it to speech
 
 
-![object detection](https://lh3.googleusercontent.com/proxy/HTIPnIsQVNNyaXHFUOMRVTokCrmdDEtqjsZ1FAkuX2bAx94lQ8cYHN2LxzX9XBXlZ2vUoNcHFjRFOHsGpivJWHTKUpXIIB9_rCXXP73EXrTBuvUeB0kmeqOVNS2hw2CHAgyfACXBWavW0X7ABDMOOTfXtWaLBJs)
+![object detection](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial/raw/master/images/detection1.jpg)
 
 For that you have only to get this notebook ``` Object Detection.ipynb ``` and running it for your self, I hope it worked well for all of you!
