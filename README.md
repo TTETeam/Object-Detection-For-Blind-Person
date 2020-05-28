@@ -1,6 +1,6 @@
 # Object-Detection-For-Blind-Person
 
-## The Third Eye (TTE) Project to help the blind person
+### help the blind persons to identify objects
 
 Detect objects in an image using YOLOV3 after that get the list of objects it detect and convert it to speech
 
